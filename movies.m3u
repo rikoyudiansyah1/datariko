@@ -1,3 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://s7.indexmovie.biz/wp-content/uploads/2016/01/film-iron-man-2008.jpg" tvg-country="IR" tvg-url="" group-title="VOD MOVIES",NARUTO EPS 1
 http://139.162.3.74/eps1.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://s7.indexmovie.biz/wp-content/uploads/2016/01/film-iron-man-2008.jpg" tvg-country="IR" tvg-url="" group-title="VOD MOVIES",NARUTO EPS 2
+http://139.162.3.74/eps2.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://s7.indexmovie.biz/wp-content/uploads/2016/01/film-iron-man-2008.jpg" tvg-country="IR" tvg-url="" group-title="VOD MOVIES",NARUTO EPS 3
+http://139.162.3.74/eps3.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://s7.indexmovie.biz/wp-content/uploads/2016/01/film-iron-man-2008.jpg" tvg-country="IR" tvg-url="" group-title="VOD MOVIES",NARUTO EPS 4
+http://139.162.3.74/eps4.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://s7.indexmovie.biz/wp-content/uploads/2016/01/film-iron-man-2008.jpg" tvg-country="IR" tvg-url="" group-title="VOD MOVIES",NARUTO EPS 5
+http://139.162.3.74/eps5.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://s7.indexmovie.biz/wp-content/uploads/2016/01/film-iron-man-2008.jpg" tvg-country="IR" tvg-url="" group-title="VOD MOVIES",NARUTO EPS 6
+http://139.162.3.74/eps6.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://s7.indexmovie.biz/wp-content/uploads/2016/01/film-iron-man-2008.jpg" tvg-country="IR" tvg-url="" group-title="VOD MOVIES",NARUTO EPS 7
+http://139.162.3.74/eps7.mp4
